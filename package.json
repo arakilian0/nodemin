@@ -1,0 +1,25 @@
+{
+  "name": "nodemin",
+  "version": "0.1.0",
+  "description": "Node.js based Content Management System",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arakilian0/nodemin.git"
+  },
+  "keywords": [
+    "node",
+    "cms"
+  ],
+  "author": "Michael Arakilian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arakilian0/nodemin/issues"
+  },
+  "homepage": "https://github.com/arakilian0/nodemin#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
