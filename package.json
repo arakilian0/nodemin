@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/arakilian0/nodemin#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "js-yaml": "^3.13.1"
   }
 }
